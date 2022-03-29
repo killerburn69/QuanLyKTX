@@ -24,7 +24,7 @@ namespace QuanLyKTX
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            //Hung edit
         }
 
         private void checkPass_CheckedChanged(object sender, EventArgs e)
