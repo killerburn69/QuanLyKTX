@@ -11,6 +11,7 @@ using System.Data.SqlClient;
 
 namespace QuanLyKTX
 {
+    //heloo anh ae adasdasd
     public partial class Form1 : Form
     {
         public static string UserName = "";
