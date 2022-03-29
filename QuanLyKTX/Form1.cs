@@ -14,7 +14,7 @@ namespace QuanLyKTX
     public partial class Form1 : Form
     {
         public static string UserName = "";
-        string strConnectionString = "Data Source=DESKTOP-07KO9B1\\SQLEXPRESS;Initial Catalog=QuanLyKTX;Integrated Security = True";
+        string strConnectionString = "Data Source=(local);Initial Catalog=QuanLyKTX;Integrated Security = True";
         // Đối tượng kết nối
         SqlConnection conn = new SqlConnection();
         public Form1()
